@@ -39,8 +39,6 @@
     "eslint-plugin-unicorn": "^19.0.1",
     "jest": "^25.1.0",
     "prettier": "^1.19.1",
-    "tslint-config-prettier": "^1.18.0",
-    "tslint-plugin-prettier": "^2.1.0",
     "typescript": "^3.8.3"
   },
   "dependencies": {
